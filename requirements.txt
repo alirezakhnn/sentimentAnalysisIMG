@@ -1,0 +1,10 @@
+onnx
+tf2onnx
+onnxruntime
+opencv-python
+torchvision
+tensorflow
+keras
+pillow
+requests
+matplotlib
